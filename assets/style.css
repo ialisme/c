@@ -1,0 +1,16 @@
+img.logo {
+  height: 80px;
+}
+
+img.libertodon {
+  margin-top: 30px;
+  width: 80%;
+}
+
+p.footnotes {
+  font-size: 80%
+}
+
+p.serious-footnotes {
+  font-size: 85%
+}
